@@ -1,10 +1,10 @@
 # [level 0] 두 수의 차 - 120803 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=python3) 
 
 ### 성능 요약
 
-메모리: 72.6 MB, 시간: 0.02 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 03일 22:11:10
+2024년 07월 22일 10:17:53
 
 ### 문제 설명
 
